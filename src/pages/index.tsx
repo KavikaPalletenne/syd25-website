@@ -27,7 +27,7 @@ export default function Home() {
           </div>
           <div className="flex justify-center text-white font-normal text-lg md:text-4xl pt-2">
             <div>
-              <h1>Sydney</h1>
+              <h1>Sydney 2025</h1>
             </div>
           </div>
         </div>
