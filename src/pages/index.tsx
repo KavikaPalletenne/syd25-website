@@ -8,6 +8,13 @@ export default function Home() {
     <>
       <Head>
         <title>SYD25 - AMSA National Convention Sydney 2025</title>
+
+        <meta property="og:title" content="SYD25 - AMSA National Convention Sydney 2025" />
+        <meta property="og:url" content="https://syd25.org/" />
+        <meta property="og:image" content="https://syd25.org.au/logo.png" />
+        <meta property="og:type" content="website" />
+        <meta property="og:description" content="AMSA's 66th National Convention is heading to Sydney in 2025, bringing together 800+ medical students from across Australia and New Zealand!" />
+        <meta property="og:locale" content="en_AU" />
       </Head>
     
       <body className="relative flex flex-col justify-center items-center h-screen w-screen bg-slate-950">
