@@ -19,6 +19,7 @@ export default function Home() {
       </Head>
     
       <body className="relative flex flex-col justify-center items-center h-screen w-screen bg-slate-950">
+        <img className="opacity-10 h-screen" src="syd25_white.svg" />
         <div className="absolute z-100 text-white font-bold">
           <div id="headline-text">
             <div className="justify-start text-2xl md:text-7xl">
@@ -39,7 +40,6 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <img className="opacity-10 h-screen" src="syd25_white.svg" />
       </body>
     </>
   );
