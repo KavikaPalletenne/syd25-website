@@ -3,7 +3,9 @@
 @tailwind utilities;
 
 #headline-text {
-  background: linear-gradient(315deg, rgba(232,118,126,1) 0%, rgba(234,60,126,1) 50%, rgba(250,178,22,1) 100%);;
+  background:
+    linear-gradient(315deg, rgba(232,118,126,1) 0%, rgba(234,60,126,1) 50%, rgba(250,178,22,1) 100%),
+    url(/grain.svg);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
