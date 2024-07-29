@@ -22,7 +22,7 @@ export default function Home() {
       <body>
         <div className="relative flex flex-col justify-center items-center h-[70vh] lg:h-screen w-screen bg-slate-950">
           <img alt="SYD25 Frame Logo" className="opacity-10 md:h-screen" src="syd25_white.svg" />
-          <div className="absolute z-100 text-white font-bold">
+          <div className="absolute z-40 text-white font-bold">
             <div id="headline-text">
               <div className="justify-start text-2xl md:text-7xl">
                 <h1>AMSA</h1>
@@ -38,17 +38,17 @@ export default function Home() {
             </div>
             <div className="flex justify-center text-white font-medium text-lg md:text-4xl pt-2">
               <div>
-                <h1>Sydney 2025</h1>
+                <h1 className="opacity-80">Sydney 2025</h1>
               </div>
             </div>
           </div>
         </div>
         <div className="flex flex-col lg:flex-row items-center justify-center bg-slate-950 lg:px-36">
-          <div className="flex flex-col items-center text-white  mx-10 my-10 bg-slate-900 rounded-xl px-5 lg:px-10 py-5 lg:py-10 drop-shadow-lg">
+          <div className="opacity-80 flex flex-col items-center text-white  mx-10 my-10 bg-slate-900 rounded-xl px-5 lg:px-10 py-5 lg:py-10 drop-shadow-lg">
             <div>
               <h1 className="text-2xl lg:text-4xl font-medium pb-5">What is SYD25?</h1>
             </div>
-            <div className="justify-center text-sm lg:text-lg pb-5">
+            <div className="justify-center text-sm lg:text-lg pb-5 font-medium">
               <h1>
                 AMSA National Convention is the largest student-run conference in the world and brings together over 800+ medical students from across Australia and New Zealand.
                 <br/>
@@ -60,7 +60,7 @@ export default function Home() {
               </h1>
             </div>
             
-            <Link href={"/about"} className="bg-slate-950 hover:bg-slate-800 duration-150 hover:drop-shadow-lg px-7 py-4 rounded-2xl">
+            <Link href={"/about"} className="bg-slate-950 hover:bg-slate-800 duration-500 hover:drop-shadow-lg px-7 py-4 rounded-2xl font-bold">
               <div>
                 LEARN MORE
               </div>
