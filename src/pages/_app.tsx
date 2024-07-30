@@ -36,8 +36,8 @@ export default function App({ Component, pageProps }: AppProps) {
                 </Link>
               </DropdownMenuItem>
               <DropdownMenuItem>
-              <Link className="px-1 lg:px-5 text-sm lg:text-xl" href={"/events/sports"}>
-                <h1 className="drop-shadow-lg opacity-80 hover:opacity-100 duration-500">SPORTS</h1>
+              <Link className="px-1 lg:px-5 text-sm lg:text-xl" href={"/events/con-games"}>
+                <h1 className="drop-shadow-lg opacity-80 hover:opacity-100 duration-500">CON GAMES</h1>
               </Link>
               </DropdownMenuItem>
             </DropdownMenuContent>

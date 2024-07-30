@@ -19,10 +19,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Sports Events | AMSA National Convention Sydney 2025 - SYD25</title>
+        <title>Con Games Events | AMSA National Convention Sydney 2025 - SYD25</title>
         <meta name="description" content="AMSA's 66th National Convention is heading to Sydney in 2025, bringing together 800+ medical students from across Australia and New Zealand!" />
 
-        <meta property="og:title" content="Sports Events | AMSA National Convention Sydney 2025 - SYD25" />
+        <meta property="og:title" content="Con Games Events | AMSA National Convention Sydney 2025 - SYD25" />
         <meta property="og:url" content="https://syd25.org/" />
         <meta property="og:image" content="https://syd25.org.au/logo.png" />
         <meta property="og:type" content="website" />
@@ -36,7 +36,7 @@ export default function Home() {
           <div className="text-white font-bold">
             <div id="headline-text">
               <div className="text-4xl md:text-6xl">
-                <h1>Sports</h1>
+                <h1>Con Games</h1>
               </div>
             </div>
           </div>
@@ -46,7 +46,7 @@ export default function Home() {
             <img alt="SYD25 Logo" src="/placeholder.png" className="w-[65vw] lg:w-[50vw] pb-5 lg:pb-10"/>
             <div className="justify-center text-sm lg:text-lg opacity-80">
               <h1>
-                Prepare yourself for an extraordinary day at the AMSA 2025 National Convention's CON Games in Sydney! This event is designed to offer a dynamic break from the academic sessions, combining sports and emergency medicine challenges into a day filled with excitement and camaraderie. Our dedicated CON Games team has crafted a lineup of activities that will push your limits and deepen the bonds of friendship formed throughout the week. Join your university delegation to compete in a range of sports, from basketball to chess, and participate in engaging challenges that appeal to diverse interests.
+                Prepare yourself for an extraordinary day at the AMSA 2025 National Convention's Con Games in Sydney! This event is designed to offer a dynamic break from the academic sessions, combining sports and emergency medicine challenges into a day filled with excitement and camaraderie. Our dedicated CON Games team has crafted a lineup of activities that will push your limits and deepen the bonds of friendship formed throughout the week. Join your university delegation to compete in a range of sports, from basketball to chess, and participate in engaging challenges that appeal to diverse interests.
                 <br/>
                 <br/>
                 One of the standout features of the CON Games is the prestigious Emergency Medical Challenge, the largest emergency simulation event in the nation. This competition is your chance to showcase your clinical expertise and practical skills in medicine. Teams will face a series of intricate medical scenarios, with the top performers advancing to an intense final round. The grand finale, held on the convention's last day, will see the best teams vie for the title of champions in a spectacular showdown.
