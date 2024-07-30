@@ -42,7 +42,7 @@ export default function Home() {
         </div>
         <div className="flex flex-col items-center justify-center bg-slate-950 lg:px-36">
           <div className="flex flex-col items-center text-white  mx-10 my-10 bg-slate-900 rounded-xl px-5 lg:px-10 py-5 lg:py-10 drop-shadow-lg">
-            <img alt="SYD25 Logo" src="/placeholder.png" className="w-[65vw] lg:w-[50vw] pb-5 lg:pb-10"/>
+            <img alt="SYD25 Logo" src="/academics.jpg" className="w-[65vw] lg:w-[50vw] pb-5 lg:pb-10"/>
             <div className="justify-center text-sm lg:text-lg opacity-80">
               <h1>
                 If you are <i>On the Lookout</i> for academic development, turn your eyes towards Sydney! A metropolis at the very forefront of biomedical and clinical research on a global scale, our SYD25 Academics team will be highlighting the very cutting edge of this city's contribution to the world of medicine, with an academic program that draws upon the greatest minds our corner of Australia has to offer - and beyond!

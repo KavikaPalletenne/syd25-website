@@ -43,7 +43,7 @@ export default function Home() {
         </div>
         <div className="flex flex-col items-center justify-center bg-slate-950 lg:px-36">
           <div className="flex flex-col items-center text-white  mx-10 my-10 bg-slate-900 rounded-xl px-5 lg:px-10 py-5 lg:py-10 drop-shadow-lg">
-            <img alt="SYD25 Logo" src="/placeholder.png" className="w-[65vw] lg:w-[50vw] pb-5 lg:pb-10"/>
+            <img alt="SYD25 Logo" src="/con_games.png" className="w-[65vw] lg:w-[50vw] pb-5 lg:pb-10"/>
             <div className="justify-center text-sm lg:text-lg opacity-80">
               <h1>
                 Prepare yourself for an extraordinary day at the AMSA 2025 National Convention's Con Games in Sydney! This event is designed to offer a dynamic break from the academic sessions, combining sports and emergency medicine challenges into a day filled with excitement and camaraderie. Our dedicated CON Games team has crafted a lineup of activities that will push your limits and deepen the bonds of friendship formed throughout the week. Join your university delegation to compete in a range of sports, from basketball to chess, and participate in engaging challenges that appeal to diverse interests.

@@ -42,7 +42,7 @@ export default function Home() {
         </div>
         <div className="flex flex-col items-center justify-center bg-slate-950 lg:px-36">
           <div className="flex flex-col items-center text-white  mx-10 my-10 bg-slate-900 rounded-xl px-5 lg:px-10 py-5 lg:py-10 drop-shadow-lg">
-            <img alt="SYD25 Logo" src="/placeholder.png" className="w-[65vw] lg:w-[50vw] pb-5 lg:pb-10"/>
+            <img alt="SYD25 Logo" src="/socials.png" className="w-[65vw] lg:w-[50vw] pb-5 lg:pb-10"/>
             <div className="justify-center text-sm lg:text-lg opacity-80">
               <h1>
                 The National Convention's social nights offer delegates the chance to unwind, mingle and explore the vibrant nightlife of Sydney. Our dedicated SYD25 Socials Team have curated five themed evenings at some of Sydney's most glamorous venues, promising a creative atmosphere where dazzling costumes are encouraged.

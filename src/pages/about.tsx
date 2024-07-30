@@ -68,7 +68,7 @@ export default function Home() {
                 The SYD25 team is composed of our dedicated Core Team, consisting of our Convenor, two Deputy Convenors, Treasurer, and Secretary. Working alongside them, we have our invaluable Management Team, including leading officers in the Academics, Logistics, Socials, CON Games, Creatives & Marketing, IT, Sponsorship and Risk & Welfare portfolios. Additionally, we owe a great deal of gratitude to our seven Subcommittees, who make up the remaining members of our team. With their collective efforts, totaling around 60 individuals, SYD25 is made a reality.
               </h1>
             </div>
-            <img alt="SYD25 Logo" src="/placeholder.png" className="w-[65vw] lg:w-[50vw] pt-5 pb-5 lg:pb-10"/>
+            <img alt="SYD25 Logo" src="/about.jpg" className="w-[65vw] lg:w-[50vw] pt-5 pb-5 lg:pb-10"/>
           </div>
         </div>
       </body>
