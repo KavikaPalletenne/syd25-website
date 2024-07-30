@@ -9,40 +9,35 @@ import {
   NavigationMenuTrigger,
   NavigationMenuViewport,
 } from "@/components/ui/navigation-menu"
-import NavigationMenuDemo from "./menu";
+import { NavigationBar } from "@/components/navigation";
+
+import NavBar from "@/components/navbar";
+
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuLabel,
+  DropdownMenuSeparator,
+  DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu"
+
+
 import Link from "next/link"
 
 export default function Document() {
   return (
     <Html lang="en">
       <Head />
-      <body>
+      <body className="bg-[#02050f]">
         {/* <div className="fixed z-50">
           <NavigationMenuDemo />
         </div> */}
-        <nav className="fixed z-50 flex flex-row bg-slate-950 text-white px-5 pt-5 text-sm lg:text-xl w-screen">
-          
-          <div className="flex font-bold items-center justify-center flex-row bg-slate-950 rounded-full w-screen py-5 px-5">
-          <Link className="px-2 lg:px-5" href={"/"}>
-              <h1 className="drop-shadow-lg opacity-80 hover:opacity-100 duration-500">HOME</h1>
-          </Link>
-          <Link className="px-2 lg:px-5" href={"/about"}>
-              <h1 className="drop-shadow-lg opacity-80 hover:opacity-100 duration-500">ABOUT</h1>
-          </Link>
-          <Link className="px-2 lg:px-5" href={"/events/academics"}>
-            <h1 className="drop-shadow-lg opacity-80 hover:opacity-100 duration-500">ACADEMICS</h1>
-          </Link>
-          <Link className="px-2 lg:px-5" href={"/events/socials"}>
-            <h1 className="drop-shadow-lg opacity-80 hover:opacity-100 duration-500">SOCIALS</h1>
-          </Link>
-          <Link className="px-2 lg:px-5" href={"/events/sports"}>
-            <h1 className="drop-shadow-lg opacity-80 hover:opacity-100 duration-500">SPORTS</h1>
-          </Link>
-          </div>
-        </nav>
+        {/* <NavigationBar /> */}
+        {/* <NavBar /> */}
         <Main />
         <NextScript />
-        <div className="flex flex-col items-center justify-center lg:px-10 py-5 lg:py-10 text-gray-400 bg-slate-900">
+        <div className="flex flex-col items-center justify-center lg:px-10 py-5 lg:py-10 text-gray-400 bg-[#02050f]">
           <div className="flex flex-col items-center justify-center px-[20vw]">
             <div className="text-center text-xs lg:text-md">
               <h1>AMSA acknowledges our First Nations peoples as the Traditional Custodians of Australia and pay our respects to Elders past, present and emerging. We recognise the ongoing impact of colonisation on our healthcare systems and strive for a future free from racism.</h1>
@@ -57,11 +52,11 @@ export default function Document() {
             <img src="/logo.png" className="pt-10 w-[10vw]" />
           </div> */}
         </div>
-        <div className="flex justify-center text-center py-5 items-center bg-slate-950 text-gray-700 text-sm">
+        <div className="flex justify-center text-center py-5 items-center bg-black text-gray-700 text-sm">
           <div>
             Copyright © 2024-2025 AMSA National Convention - Sydney
             <br/>
-            <h1 className="text-xs">Made by Kavika & Inspired by Harrison Liu</h1>
+            <h1 className="text-xs">Made by Kavika Palletenne</h1>
           </div>
         </div>
       </body>

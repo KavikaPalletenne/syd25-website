@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>SYD25 - AMSA National Convention Sydney 2025</title>
+        <title>AMSA National Convention Sydney 2025 - SYD25</title>
         <meta name="description" content="AMSA's 66th National Convention is heading to Sydney in 2025, bringing together 800+ medical students from across Australia and New Zealand!" />
 
         <meta property="og:title" content="SYD25 - AMSA National Convention Sydney 2025" />
@@ -20,9 +20,9 @@ export default function Home() {
       </Head>
     
       <body>
-        <div className="relative flex flex-col justify-center items-center h-[70vh] lg:h-screen w-screen bg-slate-950">
-          <img alt="SYD25 Frame Logo" className="opacity-10 md:h-screen" src="syd25_white.svg" />
-          <div className="absolute z-40 text-white font-bold">
+        <div className="relative flex flex-col justify-center items-center h-[70vh] lg:h-screen w-screen bg-slate-950 bg-[url('/syd25_white_0.1.svg')] bg-contain bg-no-repeat bg-center">
+          {/* <img alt="SYD25 Frame Logo" className="opacity-10 md:h-screen" src="syd25_white.svg" /> */}
+          <div className="text-white font-bold">
             <div id="headline-text">
               <div className="justify-start text-2xl md:text-7xl">
                 <h1>AMSA</h1>
@@ -56,7 +56,7 @@ export default function Home() {
                 In its 66th year, Convention will be held in Sydney from July 2 to July 7 2025. Over the week, students will enjoy a rewarding academic and social program, enhanced by intervarsity competitions, field trips, workshops and a trade show.
                 <br/>
                 <br/>
-                Convention embodies the core values of AMSA and continues to be the highlight of the Association’s calendar every year. The Convention 2025 team aspires to host an event that invites delegates to reflect, advocate, and voice their ideas and opinions about the current and future of medicine, in an open, safe, and inclusive space.            
+                Convention embodies the core values of AMSA and continues to be the highlight of the Association's calendar every year. The Convention 2025 team aspires to host an event that invites delegates to reflect, advocate, and voice their ideas and opinions about the current and future of medicine, in an open, safe, and inclusive space.            
               </h1>
             </div>
             
