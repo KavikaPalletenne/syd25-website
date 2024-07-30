@@ -56,16 +56,17 @@ export default function Home() {
                 Our theme for SYD25 is On The Lookout. Our mission is to
                 <br/>
                 <ul className="list-disc pl-10">
-                    <li>Inspire a new you: to nurture a new generation of leaders that recognise their capabilities and challenge their boundaries;</li>
-                    <li>Inspire a new future: to empower delegates to find their passion and goals with future-focused academic sessions;</li>
-                    <li>Inspire a new Convention: to create a career-oriented event with diverse, tangible, and meaningful outcomes for all.</li>
+                    <li>Encourage delegates to challenge themselves and push beyond their horizons to foster self-discovery and personal growth that will shape their future direction;</li>
+                    <li>Invite delegates to a safe and inclusive space free from stigma where they can broaden their perspectives about controversial topics;</li>
+                    <li>Foster camaraderie amongst medical students from across the country and embolden the national medical community through the wonderfully wholesome chaos that is the magic of Convention;</li>
+                    <li>Encourage delegates to reignite their passion for lifelong learning through thought-provoking academic sessions and skills based breakouts, promoting inquisitive discussion to voice their ideas and concerns about the state of medicine.</li>
                 </ul>
                 <br/>
                 <br/>
                 National Convention 2025 is brought to you by the collaborative efforts of the SYD25 team - we are a group of NSW medical students who have been working for almost two years to bring to you an unforgettable conference filled with opportunities for connection, collaboration and innovation.
                 <br/>
                 <br/>
-                The SYD25 team is composed of our dedicated Core Team, consisting of our Convenor, two Deputy Convenors, Treasurer, and Secretary. Working alongside them, we have our invaluable Management Team, including leading officers in the Academics, Logistics, Socials, CON Games, Creatives & Marketing, IT, Sponsorship and Risk & Welfare portfolios. Additionally, we owe a great deal of gratitude to our seven Subcommittees, who make up the remaining members of our team. With their collective efforts, totaling around 60 individuals, SYD25 is made a reality.
+                The SYD25 team is composed of our dedicated Core Team, consisting of our Convenor, two Deputy Convenors, Treasurer, and Secretary. Working alongside them, we have our invaluable Management Team, including leading officers in the Academics, Logistics, Socials, CON Games, Creatives & Marketing, IT, Sponsorship and Risk & Welfare portfolios.
               </h1>
             </div>
             <img alt="SYD25 Logo" src="/about.jpg" className="w-[65vw] lg:w-[50vw] pt-5 pb-5 lg:pb-10"/>
