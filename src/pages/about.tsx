@@ -42,7 +42,7 @@ export default function Home() {
         </div>
         <div className="flex flex-col items-center justify-center bg-slate-950 lg:px-36">
           <div className="flex flex-col items-center text-white  mx-10 my-10 bg-slate-900 rounded-xl px-5 lg:px-10 py-5 lg:py-10 drop-shadow-lg">
-            <video autoPlay playsInline controls width={720} height={405} className="pb-5">
+            <video autoPlay playsInline controls muted width={720} height={405} className="pb-5">
               <source src="https://files.syd25.org.au/promo-video-hd.m4v" type="video/mp4" />
             </video>
             <div>
