@@ -19,14 +19,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Con Games Events | AMSA National Convention Sydney 2025 - SYD25</title>
-        <meta name="description" content="AMSA's 66th National Convention is heading to Sydney in 2025, bringing together 800+ medical students from across Australia and New Zealand!" />
+        <title>AMSA National Convention Sydney 2025 | Con Games Events</title>
+        <meta name="description" content="Prepare yourself for an extraordinary day at the AMSA 2025 National Convention's Con Games in Sydney! This event is designed to offer a dynamic break from the academic sessions, combining sports and emergency medicine challenges into a day filled with excitement and camaraderie. Our dedicated CON Games team has crafted a lineup of activities that will push your limits and deepen the bonds of friendship formed throughout the week. Join your university delegation to compete in a range of sports, from basketball to chess, and participate in engaging challenges that appeal to diverse interests." />
 
-        <meta property="og:title" content="Con Games Events | AMSA National Convention Sydney 2025 - SYD25" />
+        <meta property="og:title" content="Con Games Events at AMSA National Convention Sydney 2025" />
         <meta property="og:url" content="https://syd25.org/" />
-        <meta property="og:image" content="https://syd25.org.au/logo.png" />
+        <meta property="og:image" content="https://syd25.org.au/con_games.png" />
         <meta property="og:type" content="website" />
-        <meta property="og:description" content="AMSA's 66th National Convention is heading to Sydney in 2025, bringing together 800+ medical students from across Australia and New Zealand!" />
+        <meta property="og:description" content="Prepare yourself for an extraordinary day at the AMSA 2025 National Convention's Con Games in Sydney! This event is designed to offer a dynamic break from the academic sessions, combining sports and emergency medicine challenges into a day filled with excitement and camaraderie. Our dedicated CON Games team has crafted a lineup of activities that will push your limits and deepen the bonds of friendship formed throughout the week. Join your university delegation to compete in a range of sports, from basketball to chess, and participate in engaging challenges that appeal to diverse interests." />
         <meta property="og:locale" content="en_AU" />
       </Head>
     

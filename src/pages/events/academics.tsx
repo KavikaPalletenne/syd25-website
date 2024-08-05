@@ -19,14 +19,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Academics Events | AMSA National Convention Sydney 2025 - SYD25</title>
-        <meta name="description" content="AMSA's 66th National Convention is heading to Sydney in 2025, bringing together 800+ medical students from across Australia and New Zealand!" />
+        <title>AMSA National Convention Sydney 2025 | Academics Events</title>
+        <meta name="description" content="If you are 'On the Lookout' for academic development, turn your eyes towards Sydney! A metropolis at the very forefront of biomedical and clinical research on a global scale, our SYD25 Academics team will be highlighting the very cutting edge of this city's contribution to the world of medicine, with an academic program that draws upon the greatest minds our corner of Australia has to offer - and beyond!" />
 
-        <meta property="og:title" content="Academics Events | AMSA National Convention Sydney 2025 - SYD25" />
+        <meta property="og:title" content="Academics Events at AMSA National Convention Sydney 2025" />
         <meta property="og:url" content="https://syd25.org/" />
-        <meta property="og:image" content="https://syd25.org.au/logo.png" />
+        <meta property="og:image" content="https://syd25.org.au/academics.jpg" />
         <meta property="og:type" content="website" />
-        <meta property="og:description" content="AMSA's 66th National Convention is heading to Sydney in 2025, bringing together 800+ medical students from across Australia and New Zealand!" />
+        <meta property="og:description" content="If you are 'On the Lookout' for academic development, turn your eyes towards Sydney! A metropolis at the very forefront of biomedical and clinical research on a global scale, our SYD25 Academics team will be highlighting the very cutting edge of this city's contribution to the world of medicine, with an academic program that draws upon the greatest minds our corner of Australia has to offer - and beyond!" />
         <meta property="og:locale" content="en_AU" />
       </Head>
     

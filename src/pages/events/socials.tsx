@@ -19,14 +19,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Socials Events | AMSA National Convention Sydney 2025 - SYD25</title>
-        <meta name="description" content="AMSA's 66th National Convention is heading to Sydney in 2025, bringing together 800+ medical students from across Australia and New Zealand!" />
+        <title>AMSA National Convention Sydney 2025 | Socials Events</title>
+        <meta name="description" content="The National Convention's social nights offer delegates the chance to unwind, mingle and explore the vibrant nightlife of Sydney. Our dedicated SYD25 Socials Team have curated five themed evenings at some of Sydney's most glamorous venues, promising a creative atmosphere where dazzling costumes are encouraged." />
 
-        <meta property="og:title" content="Socials Events | AMSA National Convention Sydney 2025 - SYD25" />
+        <meta property="og:title" content="Socials Events at AMSA National Convention Sydney 2025" />
         <meta property="og:url" content="https://syd25.org/" />
-        <meta property="og:image" content="https://syd25.org.au/logo.png" />
+        <meta property="og:image" content="https://syd25.org.au/socials.png" />
         <meta property="og:type" content="website" />
-        <meta property="og:description" content="AMSA's 66th National Convention is heading to Sydney in 2025, bringing together 800+ medical students from across Australia and New Zealand!" />
+        <meta property="og:description" content="The National Convention's social nights offer delegates the chance to unwind, mingle and explore the vibrant nightlife of Sydney. Our dedicated SYD25 Socials Team have curated five themed evenings at some of Sydney's most glamorous venues, promising a creative atmosphere where dazzling costumes are encouraged." />
         <meta property="og:locale" content="en_AU" />
       </Head>
     

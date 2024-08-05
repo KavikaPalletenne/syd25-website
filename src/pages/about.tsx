@@ -19,14 +19,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>About | AMSA National Convention Sydney 2025 - SYD25</title>
-        <meta name="description" content="AMSA's 66th National Convention is heading to Sydney in 2025, bringing together 800+ medical students from across Australia and New Zealand!" />
+        <title>AMSA National Convention Sydney 2025 | About</title>
+        <meta name="description" content="In 2025, AMSA's 66th National Convention is heading to Sydney. SYD25 will be the arena for relentless innovation, where you will be inspired to embark upon an expedition into the multitude of opportunities awaiting you right outside the doors of medical school." />
 
-        <meta property="og:title" content="About | AMSA National Convention Sydney 2025 - SYD25" />
+        <meta property="og:title" content="About AMSA National Convention Sydney 2025" />
         <meta property="og:url" content="https://syd25.org/" />
-        <meta property="og:image" content="https://syd25.org.au/logo.png" />
+        <meta property="og:image" content="https://syd25.org.au/about.jpg" />
         <meta property="og:type" content="website" />
-        <meta property="og:description" content="AMSA's 66th National Convention is heading to Sydney in 2025, bringing together 800+ medical students from across Australia and New Zealand!" />
+        <meta property="og:description" content="In 2025, AMSA's 66th National Convention is heading to Sydney. SYD25 will be the arena for relentless innovation, where you will be inspired to embark upon an expedition into the multitude of opportunities awaiting you right outside the doors of medical school." />
         <meta property="og:locale" content="en_AU" />
       </Head>
     
