@@ -53,7 +53,7 @@ export default function Home() {
                 AMSA National Convention is the largest student-run conference in the world and brings together over 800+ medical students from across Australia and New Zealand.
                 <br/>
                 <br/>
-                In its 66th year, Convention will be held in Sydney from July 2 to July 7 2025. Over the week, students will enjoy a rewarding academic and social program, enhanced by intervarsity competitions, field trips, workshops and a trade show.
+                In its 66th year, Convention will be held in Sydney from July 2 to July 6 2025. Over the week, students will enjoy a rewarding academic and social program, enhanced by intervarsity competitions, field trips, workshops and a trade show.
                 <br/>
                 <br/>
                 Convention embodies the core values of AMSA and continues to be the highlight of the Association's calendar every year. The Convention 2025 team aspires to host an event that invites delegates to reflect, advocate, and voice their ideas and opinions about the current and future of medicine, in an open, safe, and inclusive space.            
